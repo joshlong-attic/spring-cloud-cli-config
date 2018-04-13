@@ -5,4 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/Desktop/config
+          uri:  ${HOME}/Desktop/config
