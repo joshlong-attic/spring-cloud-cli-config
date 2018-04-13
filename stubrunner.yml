@@ -1,0 +1,4 @@
+stubrunner:
+  workOffline: true
+    ids:
+      - com.example:reservation-service:+:8081
